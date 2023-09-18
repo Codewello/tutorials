@@ -5,8 +5,8 @@
 ### What You'll Find Here
 
 
-- 🧐 **In-depth Tutorials:** Learn [mention the skills or knowledge you teach] with our step-by-step tutorials.
-- 🌟 **Featured Content:** Stay updated with our latest and greatest [mention any special content or series you offer].
+- 🧐 **In-depth Tutorials:** Learn more about machine learning with our step-by-step tutorials.
+- 🌟 **Featured Content:** Stay updated with our latest and greatest real world projects.
 
 
 ## Connect with Me
